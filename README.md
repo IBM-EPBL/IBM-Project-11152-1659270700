@@ -1,13 +1,22 @@
 # IBM-Project-11152-1659270700
 
 Project Title: Personal Expense Tracker Application
+
 Category: Cloud App Development
 
+
+
 Team Members:
+
 S Gokul – 19BCS033
+
 Gokul Raam M – 19BCS026
+
 Serjeel Ranjan – 19BCS009
+
 Ashok Kaushik – 19BCS059
+
+
 
 Project Description:
 In simple words, personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
