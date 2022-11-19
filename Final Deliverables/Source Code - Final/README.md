@@ -24,7 +24,8 @@
   ```shell
   touch .env
   ```
-2. Copy data from [.env.example](https://github.com/IBM-EPBL/IBM-Project-10506-1659183002/blob/website/development_phase/backend/.env.example) and paste it in ```.env```
+2. Copy data from .env.example
+and paste it in ```.env```
 3. Create ```IBM DB2``` credential and Add it to ```Database Creadential ibm DB2``` section in .env.
 4. Create ```Random Key``` for ```Secret Key``` section.
 5. Create ```Sendgrid api key``` and Add it to ```SEND GRID``` section also Add ```FROM_MAIL```.
