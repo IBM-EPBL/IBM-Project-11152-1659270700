@@ -93,10 +93,10 @@ def send_confirmation_token(email):
     data = {
         "confirm_url": confirm_url
     }
-    confirm_html = f"<h1>Welcome!!</h1><h2>Confirmation Mail from Spency</h2><p>Thanks! for signing up. Please follow this link to activate your account:</p><p><a href={confirm_url}>{confirm_url}</a></p><br><h4>Happy Spending</h4>"
+    confirm_html = f"<h1>Welcome!!</h1><h2>Confirmation Mail from Tracjer</h2><p>Thanks! for signing up. Please follow this link to activate your account:</p><p><a href={confirm_url}>{confirm_url}</a></p><br><h4>Happy Spending</h4>"
 
     to_email = email
-    subject = "Confirm E-Mail from Spency"
+    subject = "Confirm E-Mail from Tracker"
     content_type = "text/html"
     content = confirm_html
     templateID = "d-8f06b9ada99a43688996f6ceae7475b7"
